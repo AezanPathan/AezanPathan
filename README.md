@@ -2,7 +2,7 @@
 
 I love anime, manga, and manhwa! Always exploring new series and enjoying epic stories. 👻
 <br/>
-I try to code sometimes too. 💻  
+I also keep messing with code from time to time. 💻 
 
 
 <img align='left' src="https://i.pinimg.com/originals/e1/06/ee/e106ee093d744089a5ce56fd49675047.gif" width="230" />
