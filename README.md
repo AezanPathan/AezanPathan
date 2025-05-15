@@ -84,4 +84,5 @@ Feel free to contact me :yum:
 <br><br>
 <a href="https://www.linkedin.com/in/aezan-pathan-069402228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-aezan-informational"></a>
 <a href="mailto:aezanp@gmail.com"><img src="https://img.shields.io/badge/Email-aezanp%40gmail.com-orange"></a>
-<a href="https://protfolio-aezan.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-aezan.dev-red"></a>
+<a href="https://protfolio-aezan.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-aezan.vercel.app-red"></a>
+<a href="https://github.com/AezanPathan/"><img src="https://komarev.com/ghpvc/?username=AezanPathan" alt="visitors" /></a>
