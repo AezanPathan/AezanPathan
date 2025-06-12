@@ -17,19 +17,10 @@ I also keep messing with code from time to time. 💻
  
 
 
-  <!-- Right Column - Logos -->
+  <!-- Right Column - Logos      [![photo-6219964337079044059-x-1.jpg](https://i.postimg.cc/0QmcP8nn/photo-6219964337079044059-x-1.jpg)](https://postimg.cc/gXzvKbfL)-->
+ 
+  [![Untitled-design-5.png](https://i.postimg.cc/k42fhtw3/Untitled-design-5.png)](https://postimg.cc/8JVR7cqt)
   <div style="flex: 1 1 60%; display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: flex-end;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="40" height="40">
-    <img height="60" src="https://www.nopcommerce.com/images/nopLogos/nopCommerce/nopcommerce_logo.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" alt="Three.js" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" alt="Apache" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40">
   </div>
 </div>
 <details>
