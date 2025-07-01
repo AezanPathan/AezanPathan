@@ -71,6 +71,8 @@ I also keep messing with code from time to time. 💻
 <!-- favorites_characters ends -->
 
 </details>
+<img src="https://github.com/AezanPathan/AezanPathan/blob/main/content/gif1.gif?raw=true" alt="Demo GIF" />
+
 Feel free to contact me :yum:
 <br><br>
 <a href="https://www.linkedin.com/in/aezan-pathan-069402228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-aezan-informational"></a>
