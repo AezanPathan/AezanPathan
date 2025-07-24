@@ -1,82 +1,67 @@
-# Hi there&nbsp;<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />, I'm Aezan Pathan!
-
-
-I love anime, manga, and manhwa! Always exploring new series and enjoying epic stories. 👻
-<br/>
-I also keep messing with code from time to time. 💻 
-
-
-<img align='left' src="https://i.pinimg.com/originals/e1/06/ee/e106ee093d744089a5ce56fd49675047.gif" width="230" />
-
-
-<img align='right' src="https://i.pinimg.com/originals/76/b8/bf/76b8bf71c7eca48894b89cfda19c8d54.gif" width="230" height="230" />
+<div align="center">
 
 
 
+  <!-- Custom Banner GIF (You can replace this with your custom one later) -->
+  <img src="https://raw.githubusercontent.com/JoshuaThadi/Wall-E-Desk/refs/heads/main/Pixel-Art/snow.gif" width="100%" alt="Web Scraping Banner"/>
 
-<div style="display: flex; flex-wrap: nowrap; justify-content: space-between; align-items: flex-start; gap: 20px; margin: 20px 0;">
- 
-
-
-  <!-- Right Column - Logos      [![photo-6219964337079044059-x-1.jpg](https://i.postimg.cc/0QmcP8nn/photo-6219964337079044059-x-1.jpg)](https://postimg.cc/gXzvKbfL)-->
- 
-  [![Untitled-design-5.png](https://i.postimg.cc/k42fhtw3/Untitled-design-5.png)](https://postimg.cc/8JVR7cqt)
-  <div style="flex: 1 1 60%; display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: flex-end;">
-  </div>
 </div>
-<details>
-<summary>:tv: List Favorites Anime</summary>
+
+---
+
+### About Me
+
+I'm **Aezan** — a dev who dont like copy paste and staling the oter people work  results-driven Web Scraping Engineer and Automation Developer. I build reliable and scalable data extraction pipelines, automate browser tasks, and streamline workflows using powerful tools like **Puppeteer**, **Playwright**, **Crawlee**, and **Apify**.
+
+With hands-on experience in browser automation, JavaScript, and Node.js, I help businesses turn web data into structured, usable insights.
+
+---
+
+### Tech Stack
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,github" height="40" />
+  <img src="https://img.shields.io/badge/Puppeteer-40AEF0?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Crawlee-000000?style=for-the-badge&logo=apify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-45BA7F?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apify-0D83DD?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAOCAMAAABbayygAAAAMFBMVEUAAAD///////////////////////////////////////////////////////////////////8ptRU+AAAAEXRSTlMAEBAQICAhISIjIyUlJSUlJSUlJWf7/wAAAERJREFUGFctwYkSgDAMBNC7h6H9n+x/aQvAlSlFEmcN4IvgT02HcR7cYXGDSDAxDzGPZ99KZKhHJ3OUO+dUjSOH+2PyBlhHUAAAAASUVORK5CYII=" />
+
+</div>
+
+---
+
+### What I Do
+
+- Extract structured data (JSON, CSV, Excel) from dynamic and static websites  
+- Automate repetitive tasks using browser scripting and APIs  
+- Build custom scrapers for platforms like e-commerce, real estate, job portals  
+- Integrate scrapers with **Make.com**, **Apify**, or cloud deployment  
+- Provide clean, well-documented code and client-ready results
+
+---
+
+### Contact
+
+- Portfolio: [animbrozz.vercel.app](https://animbrozz.vercel.app)
+- Instagram: [@kaif11alii](https://www.instagram.com/kaif11alii/)
+- Email: [saiyedkaifali29@gmail.com](mailto:saiyedkaifali29@gmail.com)
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=kaif11ali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaif11ali&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+<div align="center">
   
-<!-- favorites_anime starts -->
-* [Tokyo Ghoul](https://anilist.co/anime/20605)  
-* [The Misfit of Demon King Academy](https://anilist.co/anime/112301)  
-* [Black Clover](https://anilist.co/anime/97940)  
-* [Blue Lock](https://anilist.co/anime/153162)  
-* [The 100 Girlfriends Who Really, Really, Really, Really, Really Love You](https://anilist.co/anime/160392)  
-* [The Daily Lives of High School Boys](https://anilist.co/anime/11843)  
-* [Gintama](https://anilist.co/anime/918)  
-* [Horimiya](https://anilist.co/anime/124080)  
-* [Tonikaku Kawaii](https://anilist.co/anime/116267)  
+  Building smarter automation. Delivering better data.
 
-<!-- favorites_anime ends -->
-
-</details>
-<details>
-<summary>:book: List Favorites Manga and Manhwa</summary>
-  
-<!-- favorites_manga starts -->
-* [Elecced](https://www.webtoons.com/en/action/eleceed/list?title_no=1571)
-* [Azadarake no Classmate ga Shinpai](https://anilist.co/manga/166117)  
-<!-- favorites_manga ends -->
-
-</details>
-<details>
-<summary>🤩: List Favorites Character</summary>
-  
-<!-- favorites_characters starts -->
-* [Ken Kaneki](https://anilist.co/character/87275)
-* [Kyouko Hori](https://anilist.co/character/66171)
-* [Nagisa Minase](https://anilist.co/character/162885)
-* [Marin Kitagawa](https://anilist.co/character/133676)
-* [Anos Voldigoad](https://anilist.co/character/152091)  
-* [Asta](https://anilist.co/character/121681)  
-* [Yoichi Isagi](https://anilist.co/character/127468)  
-* [Nasa Yuzaki](https://anilist.co/character/163875)  
-* [Polka Shinoyama](https://anilist.co/character/166278)  
-* [Tatsumi Oga](https://anilist.co/character/38489)  
-* [Senku Ishigami](https://anilist.co/character/127947)  
-* [Sung Jin-Woo](https://anilist.co/character/176739)  
-* [Kai](https://anilist.co/character/120267)  
-* [Gintoki Sakata](https://anilist.co/character/1671)  
-
-<!-- favorites_characters ends -->
-
-</details>
-
-Feel free to contact me :yum:
-<br><br>
-<a href="https://www.linkedin.com/in/aezan-pathan-069402228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-aezan-informational"></a>
-<a href="mailto:aezanp@gmail.com"><img src="https://img.shields.io/badge/Email-aezanp%40gmail.com-orange"></a>
-<a href="https://protfolio-aezan.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-aezan.vercel.app-red"></a>
-<!-- <a href="https://github.com/AezanPathan/"><img src="https://komarev.com/ghpvc/?username=AezanPathan" alt="visitors" /></a>
-  -->
+</div>
