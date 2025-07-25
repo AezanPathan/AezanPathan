@@ -53,8 +53,8 @@ With hands-on experience in browser automation, JavaScript, and Node.js, I help 
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=kaif11ali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaif11ali&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AezanPathan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AezanPathan&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
