@@ -56,9 +56,18 @@ With hands-on experience in browser automation, JavaScript, and Node.js, I help 
   <img src="https://github-readme-stats.vercel.app/api?username=AezanPathan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AezanPathan&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AezanPathan&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AezanPathan&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AezanPathan&theme=tokyonight&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AezanPathan&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AezanPathan&theme=tokyonight)
+
 </div>
 
 ---
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aezanpathan&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)](https://github.com/AndroidWithRossyn/github-readme-activity-graph)
 
 <div align="center">
   
