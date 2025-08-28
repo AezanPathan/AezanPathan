@@ -8,6 +8,7 @@
 </div>
 
 ---
+![](https://nirzak-streak-stats.vercel.app/?user=AezanPathan&theme=dark&hide_border=true)<br/>
 
 ### About Me
 
